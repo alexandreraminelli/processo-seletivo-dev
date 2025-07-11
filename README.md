@@ -57,7 +57,7 @@ O retorno da função deve ser um array de Posts que atendem aos critérios de f
 ## Observações
 - O projeto utiliza Typescript e Node.js.
 - A função de filtro deverá ser implementada no arquivo `search.ts`.
-- Os testes estão implementados no arquivo `validate.ts` e você pode rodá-los com `yarn test`.
+- Os testes estão implementados no arquivo `test.ts` e você pode rodá-los com `yarn test`.
 - Você pode testar manualmente a função editando o arquivo `index.ts` e rodando `yarn start`.
 - Não é permitido o uso de bibliotecas externas.
 - Não é permitido o uso de ferramentas GPTs.
