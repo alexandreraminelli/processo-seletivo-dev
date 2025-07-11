@@ -4,8 +4,8 @@ export type Post = {
   id: number
   title: string
   kind: 'report' | 'gallery' | 'video' | 'banner' | 'informative'
-  publishedAt: Date
-  createdAt: Date
+  publishedAt: string
+  createdAt: string
   category: string[]
   targets: string[]
 }
